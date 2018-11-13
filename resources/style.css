@@ -35,6 +35,11 @@ nav div {
   align-items: center;
 }
 
+nav li {
+  display: inline;
+  padding: 0 1rem;
+}
+
 nav img {
   height: 1.5rem;
   margin-left: 2rem;
@@ -108,6 +113,7 @@ h1 {
   margin: 3rem;
   width: 5rem;
   height: 8rem;
+  text-align: center;
 }
 
 .service img.paper-icon {
